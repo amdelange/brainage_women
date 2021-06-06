@@ -1,5 +1,5 @@
 # brainage_women
-Women’s brain health: risk and protective factors
+_Women’s brain health: risk and protective factors_
 
 Code for running age prediction models and other relevant analyses in UK Biobank projects on female-specific factors:
 
