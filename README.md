@@ -1,7 +1,7 @@
 # brainage_women
 _Women’s brain health: risk and protective factors_
 
-Code for running age prediction models and other relevant analyses in UK Biobank projects on female-specific factors:
+General code for running age prediction models and other relevant analyses in UK Biobank projects on female-specific factors:
 
 **A history of previous childbirths is linked to women’s white matter brain age in midlife and older age**
 https://www.biorxiv.org/content/10.1101/2020.11.20.391698v2.full
