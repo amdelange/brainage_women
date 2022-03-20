@@ -7,7 +7,7 @@ General code for running age prediction models in UK Biobank projects on female 
 https://psyarxiv.com/7xcun/
 
 **A history of previous childbirths is linked to women’s white matter brain age in midlife and older age**
-https://www.biorxiv.org/content/10.1101/2020.11.20.391698v2.full
+https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25553
 
 **Women's brain aging: Effects of sex‐hormone exposure, pregnancies, and genetic risk for Alzheimer's disease**
 https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25180
