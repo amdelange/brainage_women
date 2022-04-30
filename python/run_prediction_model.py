@@ -148,7 +148,7 @@ for s in sex:
 
 
             # SAVE FILE
-            x_copy_save.to_csv(datapath+'Predictions_%s_%s_testset.csv' % (m,s), sep=',',index=None)
+            x_copy.to_csv(datapath+'Predictions_%s_%s_testset.csv' % (m,s), sep=',',index=None)
 
 
             #Get feature importances
@@ -156,7 +156,7 @@ for s in sex:
             text_file.write ('Feature importance for %s\n' % m)
 
             result = model.fit(x, y)
-            print(result.best_estimator_)
+
 
             feature_importances = result.get_booster().get_score(importance_type='gain')
             keys = list(feature_importances.keys())
