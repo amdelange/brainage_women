@@ -152,7 +152,6 @@ for s in sex:
 
 
             #Get feature importances
-
             text_file.write ('Feature importance for %s\n' % m)
 
             result = model.fit(x, y)
