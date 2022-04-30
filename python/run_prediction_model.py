@@ -156,7 +156,6 @@ for s in sex:
 
             result = model.fit(x, y)
 
-
             feature_importances = result.get_booster().get_score(importance_type='gain')
             keys = list(feature_importances.keys())
             values = list(feature_importances.values())
